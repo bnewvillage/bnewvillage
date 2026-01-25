@@ -30,6 +30,14 @@ I enjoy turning complex datasets into actionable insights and creating tools tha
 
 ---
 
+## Passion & Interests
+- **Fitness** – licensed fitness trainer  
+- **Reading** – currently recommend *Thinking, Fast and Slow* by Daniel Kahneman, *Man's Search for Meaning* by Viktor Frankl, and *The Lies of Locke Lamora* by Scott Lynch  
+- **Travel & Adventure** – discovering waterfalls in the Philippines; hopping on my motorcycle and exploring new places  
+- Enjoys mixing data work with active, hands-on hobbies for balance  
+
+---
+
 ## Connect with Me
 - **LinkedIn:** [linkedin.com/in/iamblainevillanueva](https://www.linkedin.com/in/iamblainevillanueva)  
 
