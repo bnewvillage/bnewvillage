@@ -22,7 +22,7 @@ I build data pipelines and the apps on top of them for inventory, pricing and pu
 
 | Project | What it does | Stack | |
 |---|---|---|---|
-| [**runwayIQ-demo**](https://github.com/bnewvillage/runwayIQ-demo) | Purchasing intelligence for a three-market parts retailer. Turns sales and stock history into reorder decisions. Runs on generated data. Rebuilt from purchase_assistant. | JavaScript | [Live](https://bnewvillage.github.io/runwayIQ-demo/) |
+| [**runwayIQ-demo**](https://github.com/bnewvillage/runwayIQ-demo) | Purchasing intelligence for a three-market parts retailer. Turns sales and stock history into reorder decisions. Runs on generated data. Rebuilt from purchase_assistant. | FastAPI, Supabase (PostgreSQL), React/Vite, Firebase Auth. Demo is frontend-only. | [Live](https://bnewvillage.github.io/runwayIQ-demo/) |
 | [**castle-lab_v2**](https://github.com/bnewvillage/castle-lab_v2) | Multi-currency retail pricing engine. Landed costs, enforced margins, ERP-ready exports. | React, Supabase | [Live](https://bnewvillage.github.io/castle-lab_v2/) |
 | [**purchase_assistant**](https://github.com/bnewvillage/purchase_assistant) | v1 of Runway IQ. ERP-connected demand pipeline feeding a live dashboard: ERPNext → PostgreSQL → Firestore → Firebase Hosting. | Python, PostgreSQL, Firestore | [Live](https://bnewvillage.github.io/purchase_assistant/) |
 
